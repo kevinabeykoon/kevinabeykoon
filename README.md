@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently a software engineering student at Carleton University
-- 💻 Working at Google as a Software Developer Intern 
+- 💻 Just finished and internship at Google as a Software Developer Intern 
 - 🦾 Researching software integration in prosthetic arms, focusing on feedback systems and EMG/Brain input @BioCARE 
 
   <!--![Views Badge](https://komarev.com/ghpvc/?username=kevinabeykoon&label=Profile%20views&color=0e75b6&style=flat)-->
